@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+
+    "name": "TabGroups",
+    "description": "Provides organisational control over related tabs",
+    "version": "0.1.0",
+    "author": "Peter Mares",
+
+    "permissions": [
+        "tabs",
+        "contextMenus"
+    ],
+    "background": {
+        "scripts": [
+            "menuhandler.js"
+        ]
+    }
+}
