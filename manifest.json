@@ -6,6 +6,11 @@
     "version": "0.1.0",
     "author": "Peter Mares",
 
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
     "permissions": [
         "tabs",
         "contextMenus"
